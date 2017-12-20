@@ -1,2 +1,4 @@
+# tested under Python 3.6.3
+
 neovim==0.2.0
 records==0.5.2
